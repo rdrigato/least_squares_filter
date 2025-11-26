@@ -1,4 +1,4 @@
-# A Least-Squares Filter for Sequence-Space Models
+### A Least-Squares Filter for Sequence-Space Models
 
 This repository contains a companion notebook to the note "A Least-Squares Filter for Sequence-Space Models", available at [rodolforigato.com](https://www.rodolforigato.com/).
 
